@@ -1,6 +1,6 @@
 # Making 3D graphs, charts, and figures with Python
 
-This is the companion repo to [this post](https://seeinglogic.com/posts/intro-to-3d-python/) on making basic 3D visuals with Python.
+This is the companion repo to [this post](https://seeinglogic.com/posts/python-3d-intro/) on making basic 3D visuals with Python.
 
 There are three types of visuals, one in each of the three folders:
 
