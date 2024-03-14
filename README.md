@@ -4,7 +4,7 @@ This is the companion repo to [this post](https://seeinglogic.com/posts/python-3
 
 There are three types of visuals, one in each of the three folders:
 
-| ![3D Bar chart](./pictures/3d_bar_chart.png) [Making 3D Bar Charts with matplotlib](./bar_charts/) | ![Regular icosahedron](./pictures/icosahedron.png) [Network Graphs in 3D with networkx and matplotlib](./network_graphs/) | ![3D Network graph](./pictures/3d_network_graph.png) [Rendering a regular icosahedron with matplotlib](./icosahedron/) |
+| ![3D Bar chart](./pictures/3d_bar_chart.png) [Making 3D Bar Charts with matplotlib](./bar_charts/) | ![3D Network graph](./pictures/3d_network_graph.png) [Network Graphs in 3D with networkx and matplotlib](./network_graphs/) |  ![Regular icosahedron](./pictures/icosahedron.png)  [Rendering a regular icosahedron with matplotlib](./icosahedron/) |
 |-|-|-|
 
 If you like this, check out my other work and keep up with me on
