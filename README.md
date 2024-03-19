@@ -2,7 +2,7 @@
 
 This is the companion repo to [this post](https://seeinglogic.com/posts/intro-to-3d-python/) on making basic 3D visuals with Python.
 
-The three types of visuals are in each of the three folders:
+The three types of visuals are in each of the three folders, or you can check out the [Jupyter Notebook](./demo_notebook.ipynb) for a more interactive experience.
 
 1. [Making 3D Bar Charts with matplotlib](./bar_charts/)
 1. [Network Graphs in 3D with networkx and matplotlib](./network_graphs/)
